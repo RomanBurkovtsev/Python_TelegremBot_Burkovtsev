@@ -1,2 +1,5 @@
 # Python_TelegremBot_Burkovtsev
-Telegram-бот с функцией календаря
+Проект: Telegram-бот с функцией календаря
+Roman Burkovtsev
+Python_TelegremBot_Burkovtsev
+burkovtsev@gmail.com
